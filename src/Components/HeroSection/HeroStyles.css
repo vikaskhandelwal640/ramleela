@@ -2,10 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top:100px ;
-    width:1500px;
     height: 600px;
-    background: rgb(255,245,182);
     background: linear-gradient(0deg, rgba(255,245,182,0.9585084033613446) 51%, rgba(110,193,215,0.9473039215686274) 75%);
   }
   
